@@ -4,3 +4,6 @@ Device Used:
 
 Software Used: 
 1) Arduino IDE
+
+OS:
+1) Kali Linux VM
