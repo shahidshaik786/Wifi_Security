@@ -1,7 +1,7 @@
 sudo apt update
 sudo apt upgrade -y
 sudo apt dist-upgrade -y
-sudo apt-get dist-upgrade sudo apt-get install –y linux-headers-$(uname -r)
+sudo apt-get install linux-headers-$(uname -r)
 sudo reboot now
 sudo apt update
 sudo apt install realtek-rtl88xxau-dkms
